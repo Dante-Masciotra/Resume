@@ -13,6 +13,11 @@ h2 {
     margin: 0;
 }
 
+hr{
+	border-top: 2px dashed; 
+	width: 100%;
+}
+
 a {
     text-decoration: none;
     color: inherit;
@@ -297,3 +302,4 @@ main section .split>div:last-child {
         flex: none;
     }
 }
+
